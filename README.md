@@ -6,7 +6,7 @@ This repository only holds the installable APKs and screenshots. It contains no 
 
 **[Download the latest release →](../../releases/latest)**
 
-<!-- Replace with a short personal note: why you built them, what you were missing in the stock apps. -->
+These apps were built for my own commodity. I noticed that practically all custom apps for the appstore are ridden in ads, telemetry or simply have awful user interface. Fortunately for me I can tailor one for my needs (and hopefully) for yours too. 
 
 ---
 
@@ -100,11 +100,11 @@ Updates install over the previous version and keep your data. Every release is s
 
 | App | Latest | Notes |
 |---|---|---|
-| Clock | 1.1.1 | <!-- e.g. Stopwatch and "Clocked in" in the Now Bar; alarm page fix --> |
-| Gym Log | 1.0.0 | <!-- e.g. New palette and accent colors; Rest over rings like an alarm --> |
+| Clock | 1.1.1 |    Stopwatch and "Clocked in" in the Now Bar; alarm page fix
+| Gym Log | 1.0.0 |  New palette and accent colors; Rest over rings like an alarm
 
 ## Terms
 
-Personal project, provided as is, without warranty. You're welcome to install and use the apps. <!-- Pick your terms: e.g. "Please don't redistribute or re-upload the APKs." -->
+Personal project, provided as is, without warranty. You're welcome to install and use the apps. You can redistribute these APK files, just be mindful to direct them to the original repository for updates!
 
-<!-- Contact: add a link if you want feedback, e.g. your site or email. -->
+If you'd like to suggest features or provide feedback on the performance of this apps, feel free to reach me via TripPointHardware@proton.me
