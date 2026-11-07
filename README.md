@@ -6,7 +6,7 @@ This repository only holds the installable APKs and screenshots. It contains no 
 
 **[Download the latest release →](../../releases/latest)**
 
-These apps were built for my own commodity. I noticed that practically all custom apps for the appstore are ridden in ads, telemetry or simply have awful user interface. Fortunately for me I can tailor one for my needs (and hopefully) for yours too. 
+These apps were built for my own commodity. I noticed that practically all custom apps from the appstore are ridden in ads, telemetry or simply have awful user interface. Fortunately for me I can tailor one for my needs (and hopefully) for yours too. 
 
 ---
 
