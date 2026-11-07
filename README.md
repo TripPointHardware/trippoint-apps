@@ -6,7 +6,7 @@ This repository only holds the installable APKs and screenshots. It contains no 
 
 **[Download the latest release →](../../releases/latest)**
 
-These apps were built for my own commodity. I noticed that practically all custom apps from the appstore are ridden in ads, telemetry or simply have awful user interface. Fortunately for me I can tailor one for my needs (and hopefully) for yours too. 
+These apps were built for my own convenience. I noticed that practically all custom apps from the app store are riddled with ads and telemetry, or simply have an awful user interface. Fortunately, I can tailor one to my needs (and hopefully yours too).
 
 ---
 
@@ -107,4 +107,4 @@ Updates install over the previous version and keep your data. Every release is s
 
 Personal project, provided as is, without warranty. You're welcome to install and use the apps. You can redistribute these APK files, just be mindful to direct them to the original repository for updates!
 
-If you'd like to suggest features or provide feedback on the performance of this apps, feel free to reach me via TripPointHardware@proton.me
+If you'd like to suggest features or provide feedback on the performance of these apps, feel free to reach me via TripPointHardware@proton.me
